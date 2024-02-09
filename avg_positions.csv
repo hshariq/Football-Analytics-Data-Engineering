@@ -1,0 +1,31 @@
+name,position,jerseyNumber,averageX,averageY,pointsCount,type,subbedIn
+Aleix García,M,14,44.535294117647,56.458823529412,51.0,home,False
+Portu,M,24,55.276923076923,65.238461538462,13.0,home,False
+Viktor Tsygankov,M,8,48.564705882353,21.127450980392,51.0,home,False
+Iván Martín,M,23,50.108823529412,27.6,34.0,home,False
+Pablo Torre,M,18,47.8,47.957142857143,7.0,home,True
+Jhon Solís,M,22,52.976470588235,57.964705882353,17.0,home,True
+Cristhian Stuani,F,7,43.091666666667,32.808333333333,12.0,home,True
+Valery Fernández,D,11,55.42,83.6,10.0,home,True
+Eric García,D,25,31.609589041096,42.667123287671,73.0,home,False
+Yangel Herrera,M,21,51.928378378378,42.436486486486,74.0,home,False
+Daley Blind,D,23,37.813095238095,69.269047619048,84.0,home,False
+Sávio,M,16,60.8359375,55.5078125,64.0,home,False
+Miguel Gutiérrez,D,3,42.745901639344,77.036065573771,61.0,home,False
+Paulo Gazzaniga,G,13,9.9620689655172,50.743103448276,58.0,home,False
+Yan Couto,M,20,45.915463917526,17.651546391753,97.0,home,False
+Álvaro Odriozola,D,2,32.3,10.6,1.0,away,False
+Ander Barrenetxea,F,7,62.828888888889,70.182222222222,45.0,away,True
+Beñat Turrientes,M,22,49.8,59.235294117647,34.0,away,False
+Sheraldo Becker,F,11,61.614285714286,26.928571428571,28.0,away,False
+Mikel Merino,M,8,48.708,57.834,50.0,away,True
+André Silva,F,21,61.456896551724,53.201724137931,58.0,away,False
+Umar Sadiq,F,19,46.5,66.466666666667,3.0,away,True
+Álex Remiro,G,1,10.153333333333,52.135555555556,45.0,away,False
+Brais Méndez,M,23,61.931666666667,46.248333333333,60.0,away,False
+Jon Aramburu,M,39,51.07868852459,14.84262295082,61.0,away,True
+Mikel Oyarzabal,F,10,57.210526315789,50.314035087719,57.0,away,False
+Martín Zubimendi,M,4,43.539240506329,58.603797468354,79.0,away,False
+Jon Pacheco,D,20,35.846341463415,66.573170731707,82.0,away,False
+Javi Galán,D,25,45.843661971831,87.718309859155,71.0,away,False
+Igor Zubeldia,D,5,38.992307692308,30.0,78.0,away,False

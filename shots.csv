@@ -1,0 +1,23 @@
+name,position,jerseyNumber,isHome,shotType,situation,bodyPart,goalMouthLocation,xg,incidentType,xgot,xCoord,yCoord,GoalMouthxCoord,GoalMouthyCoord,GoalMouthzCoord,BlockxCoord,BlockyCoord,Minute,EndLocxCoord,EndLocyCoord
+Yangel Herrera,M,21,True,block,corner,head,low-left,0.024029621854424,shot,,9.4,42.4,0.0,52.2,19.0,7.5,43.5,96,47.8,0.0
+Yangel Herrera,M,21,True,block,assisted,left-foot,low-left,0.057783525437117,shot,,13.6,59.0,0.0,52.8,19.0,10.7,56.5,96,47.2,0.0
+Valery Fernández,D,11,True,miss,assisted,left-foot,right,0.19038042426109,shot,,9.4,47.9,0.0,40.3,18.1,,,95,59.7,0.0
+Daley Blind,D,23,True,block,free-kick,left-foot,low-right,0.033932123333216,shot,,27.6,61.1,0.0,47.9,19.0,19.5,58.5,94,52.1,0.0
+Jon Pacheco,D,20,False,block,set-piece,left-foot,low-left,0.069741666316986,shot,,10.6,44.9,0.0,52.8,19.0,7.1,45.7,90,47.2,0.0
+Yangel Herrera,M,21,True,save,assisted,right-foot,low-right,0.043857332319021,shot,0.1397,9.5,66.4,0.0,46.9,3.2,1.8,52.0,83,53.1,0.0
+Igor Zubeldia,D,5,False,miss,corner,head,right,0.10778696089983,shot,,7.1,45.1,0.0,0.8,11.1,12.1,88.3,77,99.2,0.0
+Brais Méndez,M,23,False,save,regular,left-foot,high-centre,0.1620799601078,shot,0.0776,10.5,59.1,0.0,50.3,34.2,0.7,51.1,72,49.7,0.0
+Jon Aramburu,M,39,False,miss,assisted,right-foot,high,0.017356714233756,shot,,21.6,76.9,0.0,47.2,77.8,,,70,52.8,0.0
+Aleix García,M,14,True,block,free-kick,right-foot,low-centre,0.096756622195244,shot,,21.5,41.3,0.0,49.6,19.0,15,44,65,50.4,0.0
+Mikel Oyarzabal,F,10,False,block,assisted,left-foot,low-centre,0.03315020725131,shot,,21.2,43.6,0.0,49.6,19.0,18.1,44.6,62,50.4,0.0
+Ander Barrenetxea,F,7,False,block,assisted,right-foot,low-centre,0.03002449683845,shot,,20.4,68.2,0.0,49.5,19.0,17.7,65.9,57,50.5,0.0
+Sheraldo Becker,F,11,False,miss,assisted,right-foot,close-right,0.04538705945015,shot,,18.1,70.7,0.0,42.9,2.8,,,50,57.1,0.0
+André Silva,F,21,False,miss,regular,left-foot,close-left,0.023845247924328,shot,,22.3,46.7,0.0,56.8,5.6,,,49,43.2,0.0
+André Silva,F,21,False,save,assisted,right-foot,low-left,0.043737564235926,shot,0.1055,22.2,54.3,0.0,51.9,1.3,0.5,50.7,31,48.1,0.0
+Sávio,M,16,True,miss,assisted,right-foot,right,0.034219179302454,shot,,15.0,30.4,0.0,34.6,26.4,,,29,65.4,0.0
+Miguel Gutiérrez,D,3,True,block,corner,right-foot,low-centre,0.055620305240154,shot,,18.8,51.9,0.0,51.7,19.0,11.8,50.5,23,48.3,0.0
+Aleix García,M,14,True,save,corner,right-foot,low-centre,0.068754702806473,shot,0.0398,13.8,59.9,0.0,48.7,8.9,1.2,50.7,23,51.3,0.0
+Daley Blind,D,23,True,miss,set-piece,head,right,0.036967672407627,shot,,10.8,47.5,0.0,26.2,8.3,2.9,69.3,22,73.8,0.0
+André Silva,F,21,False,miss,assisted,left-foot,high-left,0.042388796806335,shot,,19.7,64.2,0.0,58.5,91.7,,,19,41.5,0.0
+Viktor Tsygankov,M,8,True,save,free-kick,left-foot,high-right,0.078218907117844,shot,0.3137,23.0,62.7,0.0,46.1,20.9,1.2,48.7,14,53.9,0.0
+Brais Méndez,M,23,False,block,assisted,left-foot,low-centre,0.027705032378435,shot,,21.2,66.3,0.0,49.5,19.0,18.0,63.9,11,50.5,0.0

@@ -1,0 +1,17 @@
+name,home,away,statisticsType,period
+Big chances,1,0,positive,ALL
+Big chances missed,1,0,negative,ALL
+Shots inside box,7,3,positive,ALL
+Shots outside box,4,8,positive,ALL
+Goalkeeper saves,2,3,positive,ALL
+Goals prevented,0.18,0.49,positive,ALL
+Big chances,0,0,positive,1st
+Big chances missed,0,0,negative,1st
+Shots inside box,3,0,positive,1st
+Shots outside box,2,3,positive,1st
+Goalkeeper saves,1,2,positive,1st
+Big chances,1,0,positive,2nd
+Big chances missed,1,0,negative,2nd
+Shots inside box,4,3,positive,2nd
+Shots outside box,2,5,positive,2nd
+Goalkeeper saves,1,1,positive,2nd

@@ -1,0 +1,13 @@
+name,home,away,statisticsType,period
+Total shots,11,11,positive,ALL
+Shots on target,3,2,positive,ALL
+Shots off target,3,5,negative,ALL
+Blocked shots,5,4,negative,ALL
+Total shots,5,3,positive,1st
+Shots on target,2,1,positive,1st
+Shots off target,2,1,negative,1st
+Blocked shots,1,1,negative,1st
+Total shots,6,8,positive,2nd
+Shots on target,1,1,positive,2nd
+Shots off target,1,4,negative,2nd
+Blocked shots,4,3,negative,2nd
