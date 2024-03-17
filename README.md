@@ -14,7 +14,7 @@ With our system in place, we can now effortlessly gather data from any football 
 ![S](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/stats.png)
 
 ## In game events:
-![ige](]https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/Ingamevents.png)
+![ige](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/Ingamevents.png)
 
 ## Player Stats:
 ![ps](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/Playerstats.png)
