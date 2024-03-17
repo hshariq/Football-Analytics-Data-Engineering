@@ -5,15 +5,16 @@ With our system in place, we can now effortlessly gather data from any football 
 
 
 ## Shot Analysis:
-![sa](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/fa%20(3).png)
+![sa](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/shotanalysis.png)
 
 ## Shot Maps:
-![sm](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/fa%20(4).png)
+![sm](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/shotmaps.png)
 
 ## Stats:
-![S](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/fa%20(5).png)
+![S](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/stats.png)
 
 ## In game events:
-![ige](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/fa%20(1).png)
+![ige](]https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/Ingamevents.png)
 
 ## Player Stats:
+![ps](https://github.com/hshariq/Football-Analytics-Web-Scraping/blob/main/images/Playerstats.png)
